@@ -8,9 +8,9 @@
 
 3장. 배열 </br>
 
-<a href = "https://programmers.co.kr/learn/courses/30/lessons/87377" target = "_blank"> 1. 교점에 별 만들기 - Level 2 </a>
+<a href="https://programmers.co.kr/learn/courses/30/lessons/87377" target="_blank"> 1. 교점에 별 만들기 - Level 2 </a>
 
-<a href = "https://programmers.co.kr/learn/courses/30/lessons/77485" target = "_blank"> 2. 행렬 테두리 회전하기 - Level 2 </a>
+<a href="https://programmers.co.kr/learn/courses/30/lessons/77485" target="_blank"> 2. 행렬 테두리 회전하기 - Level 2 </a>
 
 3. 삼각 달팽이 - Level 2 </br>
 https://programmers.co.kr/learn/courses/30/lessons/68645 </br>
