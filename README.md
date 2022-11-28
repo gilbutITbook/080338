@@ -1,19 +1,18 @@
 # 프로그래머스 코딩 테스트 문제 풀이 전략: 파이썬편
 
-81개 문제 리스트
+### 81개 문제 리스트
 
 * 문제 URL에 접속하면 코드를 제출하고 채점할 수 있습니다.</br>
 (프로그래머스 사이트에 가입해야 합니다. 구글 계정 등으로 손쉽게 가입 가능) </br>
 
 
-3장. 배열 </br>
+#### 3장. 배열
 
 <a href="https://programmers.co.kr/learn/courses/30/lessons/87377" target="_blank"> 1. 교점에 별 만들기 - Level 2 </a>
 
 <a href="https://programmers.co.kr/learn/courses/30/lessons/77485" target="_blank"> 2. 행렬 테두리 회전하기 - Level 2 </a>
 
-3. 삼각 달팽이 - Level 2 </br>
-https://programmers.co.kr/learn/courses/30/lessons/68645 </br>
+<a href="https://programmers.co.kr/learn/courses/30/lessons/68645" target="_blank"> 3. 삼각 달팽이 - Level 2 </a>
 
 4. 거리두기 확인하기 - Level 2 </br>
 https://programmers.co.kr/learn/courses/30/lessons/81302 </br>
