@@ -14,7 +14,7 @@
 
 <a href="https://programmers.co.kr/learn/courses/30/lessons/68645" target="_blank"> 3. 삼각 달팽이 - Level 2 </a>
 
-[4. 거리두기 확인하기 - Level 2](https://programmers.co.kr/learn/courses/30/lessons/81302){: target="_blank"}
+[4. 거리두기 확인하기 - Level 2](https://programmers.co.kr/learn/courses/30/lessons/81302) {:target="_blank"}
 
 5. 행렬의 곱셈 - Level 2 </br>
 https://programmers.co.kr/learn/courses/30/lessons/12949 </br>
