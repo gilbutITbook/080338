@@ -5,4 +5,4 @@ def solution(s, n):
         corr = ord('A') if s[i].isupper() else ord('a')
         s[i] = chr((ord(s[i]) - corr + n) % 26 + corr)
             
-    return s
+    return ''.join(s)

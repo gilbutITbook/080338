@@ -1,3 +1,6 @@
+import sys
+sys.setrecursionlimit(10**6)
+
 class node:
     def __init__(self, info):
         self.number = info[2]

@@ -1,3 +1,5 @@
+#실패하는 게 정상
+
 def solution(info, query):
     data = [i.split() for i in info]
     queries = []

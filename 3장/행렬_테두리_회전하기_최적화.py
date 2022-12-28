@@ -14,8 +14,6 @@ def solution(rows, columns, queries):
             board[i][b] = board[i+1][b]
             if board[i][b] < _min: _min = board[i][b]
             
-        print(row1)
-        print(row2)
         board[a][b+1:d+1], board[c][b:d] = row1, row2
 
         answer.append(_min)

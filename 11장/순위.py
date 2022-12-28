@@ -1,3 +1,5 @@
+from collections import defaultdict
+
 def solution(n, results):
     answer = 0
     win, lose = defaultdict(set), defaultdict(set)

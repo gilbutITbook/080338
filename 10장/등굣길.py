@@ -1,3 +1,5 @@
+#실패하는 게 정상
+
 def dfs(y, x, row, col, puddles):
     path = [[1,0], [0,1]]
     answer = 0

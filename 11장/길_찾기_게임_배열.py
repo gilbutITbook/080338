@@ -1,3 +1,6 @@
+import sys
+sys.setrecursionlimit(10**6)
+
 def preorder(y, x, answer):
     node = y[0]
     idx = x.index(node)

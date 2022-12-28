@@ -6,3 +6,5 @@ def collatz(num):
             return i + 1
     return -1
 
+def solution(num):
+    return collatz(num)

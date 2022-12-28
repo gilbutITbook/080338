@@ -2,9 +2,8 @@ def radixChange (num, radix):
     if num == 0: return '0'
     nums = []
     while num:
-        num, rdx = divmod(num, radix)
-        print(rdx)
-        nums.append(str(rdx))
+        num, digit = divmod(num, radix)
+        nums.append(str(digit))
     return ''.join(reversed(nums))
 
 def solution(n):

@@ -7,5 +7,5 @@ def solution(clothes):
     for type in cloth_type:
         answer *= (cloth_type[type] + 1)
 
-    return answer – 1
+    return answer - 1
 

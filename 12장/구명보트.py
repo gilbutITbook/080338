@@ -10,5 +10,5 @@ def solution(people, limit):
             answer += 1
         b -= 1
         
-    return len(people) – answer
+    return len(people) - answer
 
