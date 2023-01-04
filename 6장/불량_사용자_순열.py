@@ -1,4 +1,6 @@
 from itertools import permutations
+import re
+
 def solution(user_id, banned_id):
     banned = ' '.join(banned_id).replace('*','.')
     answer = set()
