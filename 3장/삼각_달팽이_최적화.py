@@ -4,7 +4,7 @@ def solution(n):
     num = 1
     
     for i in range(n):
-        for j in range(i, n):
+        for _ in range(i, n):
             angle = i % 3
             # 순서대로 아래 -> 오른쪽 -> 위 (반시계 나선형)
             if angle == 0: y += 1
